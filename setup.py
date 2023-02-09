@@ -9,8 +9,8 @@ with open('requirements.txt') as f:
 setup(
     name='FairnessEvaluator',
     version='0.0.1',
-    author='BestResearchTeam',
-    author_email='alb9742@nyu.edu',
+    author='XXX',
+    author_email='XXX',
     description='Fairness Evaluator toolkit',
     install_requires=required,
     python_requires='>=3.7',

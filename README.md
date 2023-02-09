@@ -4,7 +4,7 @@
 
 Clone repositroy:
 ```bash
-git clone https://github.com/DataResponsibly/fairness-trade-offs.git
+git clone https://github.com/XXXX/XXXX.git
 ```
 
 In the main project folder, use the following command:
@@ -24,11 +24,11 @@ Note that this does not work for subfolders.
 
 Install package: 
 ```bash
-pip install git+https://github.com/DataResponsibly/fairness-trade-offs.git
+pip install git+https://github.com/XXX/XXX.git
 ```
 For installation from any branch with name [branch name]:
 ```bash
-pip install git+https://github.com/DataResponsibly/fairness-trade-offs.git@[branch name] 
+pip install git+https://github.com/XXXX/XXXX.git@[branch name] 
 ```
 
 Test code:
